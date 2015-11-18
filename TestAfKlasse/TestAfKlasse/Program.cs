@@ -15,7 +15,7 @@ namespace TestAfKlasse
         public void area()
         {
             Console.WriteLine("Kan ikke regne areal");
-            Console.WriteLine();
+            Console.ReadLine();
         }
     }
     class Sqare : Figure
